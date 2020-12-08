@@ -1,0 +1,24 @@
+html {
+background-color:LightBlue;
+}
+
+.schedule {
+background-color:LightGreen;
+}
+/* secret text haha */ 
+
+h4 {
+color:DarkBlue;
+}
+#header {
+color:rgb(93, 22, 131);
+}
+p {
+border:black;
+border-style:dashed;
+padding:5px;
+margin:5px;
+}
+body {
+display: inline;
+}
